@@ -7,17 +7,18 @@ sections:
     image: images/10.jpg
     image_alt: App preview on a phone and tablet
     title: Azimuth
-    content: >-
+    content: >
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Ut eu nunc at diam fringilla fringilla eu ut
+      massa.![](/images/FALLGUYS.png)
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Phasellus ut enim non lorem venenatis rutrum.
 
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
