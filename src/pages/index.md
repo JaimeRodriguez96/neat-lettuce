@@ -6,9 +6,10 @@ sections:
     image: images/10_thumb.jpg
     image_alt: App preview
     title: This Is A Big Hero Headlinedfdsgdfgd
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Azimuth is the perfect theme for developers,
+      d![](/images/onceninasyninos.jpg)esigners and entrepreneurs who need a
+      sleek, modern SaaS site.
     actions:
       - label: Learn More
         url: /features
