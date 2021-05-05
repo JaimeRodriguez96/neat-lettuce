@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/10.jpg
+    image: images/11_thumb.jpg
     image_alt: App preview on a phone and tablet
     title: HOLA
     content: >
