@@ -15,8 +15,7 @@ sections:
 
       *   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-      *   Ut eu nunc at diam fringilla fringilla eu ut
-      massa.![](/images/FALLGUYS.png)
+      *   Ut eu nunc at diam fringilla fringilla eu ut massa.
 
       *   Phasellus ut enim non lorem venenatis rutrum.
 
