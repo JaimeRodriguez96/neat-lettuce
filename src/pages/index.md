@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/10_thumb.jpg
     image_alt: App preview
-    title: This Is A Big Hero Headlinedfdsgdfgd
+    title: LA hora de la comida
     content: >
       Azimuth is the perfect theme for developers,
       d![](/images/onceninasyninos.jpg)esigners and entrepreneurs who need a
